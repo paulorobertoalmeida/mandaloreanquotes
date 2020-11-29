@@ -1,0 +1,42 @@
+body {
+    background-color: #014669;
+    display: flex;
+    justify-content: center;
+    color: #f3f3f6;
+}
+
+h1{
+    
+    font-size: 40px;
+    justify-content: center;
+}
+
+.container-one {
+    display: flex; 
+    margin-left:auto;
+    margin-right:auto;
+    position: fixed;
+    padding: 30px;
+  }
+
+.container-two {
+    height: 50px;
+    margin-left:auto;
+    margin-right:auto;
+   
+}
+
+h2 {
+    margin-top: 150px;
+    margin-bottom: 0px;
+    align-content: center;
+    
+}
+
+button {
+    margin-top: 15px;
+    background-color: #c9c9c9;
+    border-radius: 5px;
+    align-items: center;
+}
+
